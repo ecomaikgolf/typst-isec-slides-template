@@ -7,8 +7,8 @@ Author: Ernesto Martínez García <[ecomaikgolf.com](https://ecomaikgolf.com)>
 Tested typst version: `0.13.1`.
 
 > [!NOTE]
-> If you are an ISEC or TUGraz employee and think that `isec-thesis` or
-> `tugraz-thesis` fits more, I would need an approval to allocate the name :)
+> If you are an ISEC or TUGraz employee and think that `isec-slides` or
+> `tugraz-slieds` fits more, I would need an approval to allocate the name :)
 
 ## Contributing
 

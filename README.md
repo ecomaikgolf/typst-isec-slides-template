@@ -3,12 +3,12 @@
 Quickstart (CLI):
 
 ```sh
-typst init @preview/definitely-not-isec-slides:1.0.1 slides
+typst init @preview/definitely-not-isec-slides:1.1.0 slides
 ```
 
 Quickstart (WebIDE):
 
-- [Create Document](https://typst.app/app?template=definitely-not-isec-slides&version=1.0.1)
+- [Create Document](https://typst.app/app?template=definitely-not-isec-slides&version=1.1.0)
 - [Homepage](https://typst.app/universe/package/definitely-not-isec-slides)
 
 Keep in mind you'll need the Open Sans font configured in the web editor.
@@ -17,7 +17,7 @@ Keep in mind you'll need the Open Sans font configured in the web editor.
 > If you are an ISEC or TUGraz employee and think that `isec-thesis` or
 > `tugraz-thesis` fits more, I would need an approval to allocate the name :)
 
-Tested typst version: `0.13.1`.
+Tested typst version: `0.15.0`.
 
 Need a thesis? Check out the sibling package [definitely-not-isec-thesis](https://github.com/ecomaikgolf/typst-isec-thesis-template)
 
